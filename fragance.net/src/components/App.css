@@ -1,0 +1,17 @@
+.cardProducto{
+    width: 18rem;
+    margin: 4px;
+}
+.ItemDetail{
+    max-width: 100%;
+    margin-top: 20px;
+    width: 18rem;
+}
+.cartWidget {
+    position: relative;
+    left: 33%;
+}
+
+.botItem {
+    margin: 10px;
+}
